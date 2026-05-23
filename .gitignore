@@ -1,0 +1,9 @@
+# 大型地形数据文件 (233MB)
+world_geo.nc
+
+# 输出图片 (可重新生成)
+output/
+
+# Python缓存
+__pycache__/
+*.pyc
